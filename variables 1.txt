@@ -1,0 +1,5 @@
+# Create a variable called age and assign it a value of 25
+age = 25
+
+# Print the value of age to the console
+print(age)
